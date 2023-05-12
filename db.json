@@ -21,7 +21,7 @@
     { "id" : 19, "ticker": "PETZ3", "empresa": "Petz", "setor": "Consumo Cíclico", "cotacao": 9.87 },
     { "id" : 20, "ticker": "BBAS3", "empresa": "Banco do Brasil", "setor": "Financeiro", "cotacao": 34.67 }
   ],
-  "up2data" [
+  "up2data": [
     { "id": 1, "ticker": "MGLU3", "emissor": "AAAA", "CVM": "1111", "dataEmissao": "2022-06-29", "dataVencimento": "2023-06-29" },
     { "id": 2, "ticker": "VALE3", "emissor": "BBBB", "CVM": "2222", "dataEmissao": "2022-06-30", "dataVencimento": "2023-06-30" },
     { "id": 3, "ticker": "PETR3", "emissor": "CCCC", "CVM": "3333", "dataEmissao": "2022-06-31", "dataVencimento": "2023-06-31" }
